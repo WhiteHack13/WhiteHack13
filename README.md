@@ -7,7 +7,9 @@ Mi experiencia combina desarrollo de software, administración de servidores, in
 Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar procesos y enseñar conceptos avanzados de ingeniería de software.
 
 ![WhiteHack13's Stats](https://github-readme-stats.vercel.app/api?username=WhiteHack13&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHack13&layout=compact&theme=vue-dark&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=WhiteHack13&theme=vue-dark&hide_border=true)
 
 ---
