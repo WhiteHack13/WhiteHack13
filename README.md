@@ -8,6 +8,8 @@ Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar pr
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=WhiteHack13&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WhiteHack13&show_icons=true&theme=tokyonight)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WhiteHack13&layout=compact&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=WhiteHack13&theme=vue-dark&hide_border=true)
