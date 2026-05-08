@@ -6,7 +6,7 @@ Mi experiencia combina desarrollo de software, administración de servidores, in
 
 Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar procesos y enseñar conceptos avanzados de ingeniería de software.
 
-![whiteHack's Stats](https://github-readme-stats.vercel.app/api?username=<username>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![<WhiteHack13>'s Stats](https://github-readme-stats.vercel.app/api?WhiteHack13=<WhiteHack13>&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 
 ---
 
@@ -113,10 +113,9 @@ Investigación y desarrollo de una plataforma orientada a:
 
 # 📬 Contacto
 
-- 💼 LinkedIn: <TU_LINKEDIN>
-- 🌐 Portafolio: <TU_PORTAFOLIO>
-- 📧 Correo: <TU_CORREO>
-- 🐙 GitHub: https://github.com/<username>
+- 🌐 Portafolio: https://portafolio-melvinmaldonado.netlify.app/
+- 📧 Correo: xmelvinymaldonadozmoncada@gmail.com
+- 🐙 GitHub: https://github.com/whiteHack13
 
 ---
 
