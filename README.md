@@ -17,23 +17,21 @@ Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar pr
 
 -  Ingeniero en Sistemas enfocado en Backend, Arquitectura de Software e Infraestructura.
 -  Desarrollo y mantengo plataformas institucionales de escala gubernamental.
--  Estudiante de Maestría en Matemáticas Aplicadas y Computacionales.
+-  Estudiante de Maestría en ingeniería de software.
 -  Docente universitario en:
-  - Ingeniería de Software
-  - Programación Avanzada
-  - Desarrollo Web
-  - IoT
+    * Ingeniería de Software
+    * Programación Avanzada
+    * Desarrollo Web
+    * IoT
 -  Experiencia administrando:
-  - Servidores Linux
-  - Apache y Nginx
-  - Reverse Proxy
-  - WebSockets
-  - SSL y certificados
-  - Infraestructura virtualizada
-  - Servicios de red
+    * Servidores Linux
+    * Apache y Nginx
+    * Reverse Proxy
+    * WebSockets
+    * SSL y certificados
+    * Infraestructura virtualizada
 -  Interesado en arquitecturas escalables, Docker, Kubernetes y cloud computing.
 -  Investigador y desarrollador de plataformas de telemedicina y continuidad clínica.
-- 🇯🇵 Actualmente aprendiendo japonés.
 
 ---
 
@@ -64,7 +62,6 @@ Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar pr
 - Infraestructura escalable en Linux
 - WebSockets y comunicación en tiempo real
 - Integración de IA en sistemas empresariales
-- Métodos Numéricos y Modelado Computacional
 - Desarrollo seguro y ciberseguridad aplicada
 
 ---
@@ -125,10 +122,7 @@ Investigación y desarrollo de una plataforma orientada a:
 #  Datos Interesantes
 
 - Disfruto tanto resolver problemas de infraestructura como desarrollar software.
-- Trabajo entre desarrollo, servidores, redes, DevOps y enseñanza universitaria.
+- Trabajo entre desarrollo, servidores, DevOps y enseñanza universitaria.
 - Me interesa construir sistemas escalables, mantenibles y seguros.
 - Constantemente combino programación, investigación, docencia e infraestructura.
-
----
-
-Gracias por visitar mi perfil 
+ 
