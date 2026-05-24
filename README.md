@@ -9,8 +9,6 @@ Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar pr
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=WhiteHack13&show_icons=true&theme=tokyonight)
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=WhiteHack13&theme=vue-dark&hide_border=true)
-
 ---
 
 #  Sobre mí
@@ -115,7 +113,6 @@ Investigación y desarrollo de una plataforma orientada a:
 
 -  Portafolio: https://portafolio-melvinmaldonado.netlify.app/
 -  Correo: xmelvinymaldonadozmoncada@gmail.com
--  GitHub: https://github.com/whiteHack13
 
 ---
 
