@@ -1,6 +1,6 @@
 # Hola, soy Melvin Maldonado 
 
-Soy Ingeniero en Sistemas, Desarrollador Full Stack y Especialista en Infraestructura Linux apasionado por construir plataformas escalables, resolver problemas complejos de backend y diseñar arquitecturas de alta disponibilidad.
+Soy Ingeniero en Sistemas especializado en desarrollo backend, frontend y bases de datos, con experiencia en la construcción de aplicaciones web, APIs REST e integración de sistemas. Disfruto participar en todas las etapas del desarrollo de software, desde el análisis y diseño hasta la implementación y despliegue. Actualmente complemento mi perfil ampliando mis conocimientos en infraestructura Linux, administración de servidores y tecnologías de nube para fortalecer mi visión integral de las soluciones tecnológicas.
 
 Mi experiencia combina desarrollo de software, administración de servidores, integración de sistemas, virtualización, tiempo real con WebSockets y buenas prácticas de ciberseguridad.
 
