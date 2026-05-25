@@ -45,7 +45,7 @@ Disfruto crear aplicaciones modernas, optimizar infraestructuras, automatizar pr
 [![Database Skills](https://skillicons.dev/icons?i=mysql,postgres,mongodb)](https://skillicons.dev)
 
 ## DevOps & Infraestructura
-[![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,apache,git,github)](https://skillicons.dev)
+[![DevOps Skills](https://skillicons.dev/icons?i=docker,kubernetes,linux,nginx,git,github)](https://skillicons.dev)
 
 ## Herramientas
 [![Tools Skills](https://skillicons.dev/icons?i=vscode,postman,bash,figma)](https://skillicons.dev)
